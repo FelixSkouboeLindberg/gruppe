@@ -11,7 +11,12 @@ namespace Gemme
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Print("Do u like mining dimonds???");
             Console.ReadKey();
+        }
+        public static void Print(string text)
+        {
+            Console.WriteLine(text);
         }
     }
 }

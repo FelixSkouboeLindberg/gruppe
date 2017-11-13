@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\bin\Debug\Gemme.exe.config
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\bin\Debug\Gemme.exe
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\bin\Debug\Gemme.pdb
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\obj\Debug\Gemme.csprojResolveAssemblyReference.cache
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\obj\Debug\Gemme.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\obj\Debug\Gemme.exe
+C:\Users\Danny\Documents\gruppe\Gemme\Gemme\obj\Debug\Gemme.pdb
